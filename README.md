@@ -4,4 +4,4 @@
 
 BERT/HuggingFace (PyTorch).
 
-Code and data can be found in the supplementary material [here](https://www.aclweb.org/anthology/2021.cmcl-1.26/).
+Code and data specific to relation classification can also be found in the supplementary material [here](https://www.aclweb.org/anthology/2021.cmcl-1.26/).
